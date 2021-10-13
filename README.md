@@ -1,16 +1,48 @@
-### Hi there 👋
+# Gustavo Andrade
 
-<!--
-**guandradeamm/guandradeamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Linkedin](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-andrade-fullstack-developer/)](https://www.linkedin.com/in/gustavo-andrade-fullstack-developer/)
+[![Mail Me!](https://img.shields.io/badge/-Contact%20Me!-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo_alex3000@hotmail.com)](mailto:gustavo_alex3000@hotmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### FullStack Software Developer
+
+<img src="https://i.ibb.co/QJZdmpv/XOsX.gif" width="100" height="100" />
+
+## 🌀 A little more about me:
+
+```typescript
+class Gustavo extends Human {
+  name: string;
+  nationality: string;
+  
+  constructor() {
+    super();
+    this.name = "Gustavo Andrade";
+    this.nationality = "Brazilian";
+  }
+  
+  languages: Array<string> = [
+    "Portuguese",
+    "English",
+    "Spanish",
+  ];
+  
+  technologies: {
+    JavaScript:     ["React.js"];
+    APIs:           ["REST", "SOAP"];
+    Design:         ["Bootstrap"];
+    };
+}
+```
+
+
+---
+## ❄️ Current Personal Projects:
+
+- Responsive Websites 
+- Single page applications 
+- Serverless Solutions
+- Design Patterns
+
+
+`💬 Let's talk about JavaScript applications`
