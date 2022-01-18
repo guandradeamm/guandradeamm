@@ -28,7 +28,7 @@ class Gustavo extends Human {
   ];
   
   technologies: {
-    JavaScript:     ["React.js"];
+    JavaScript:     ["React.js", "Angular.js"];
     APIs:           ["REST", "SOAP"];
     Design:         ["Bootstrap"];
     };
