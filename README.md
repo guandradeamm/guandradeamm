@@ -46,3 +46,4 @@ class Gustavo extends Human {
 
 
 `💬 Let's talk about JavaScript applications`
+You can check my personal-portfolio [here](https://gustavo-andrade-portfolio.vercel.app)
